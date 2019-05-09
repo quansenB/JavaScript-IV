@@ -53,6 +53,7 @@ class Instructor extends Person {
             csonsole.log(`${student.name} has now a grade of ${student.grade}`);
         }
     }
+}
 
 class Student extends Person {
 
